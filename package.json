@@ -4,8 +4,8 @@
   "description": "",
   "main": "trigger.js",
   "dependencies": {
-    "chip-gpio": "^1.1.2",
-    "request": "^2.80.0"
+    "chip-gpio": "1.1.2",
+    "request": "2.80.0"
   },
   "devDependencies": {},
   "scripts": {
